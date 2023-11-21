@@ -1,0 +1,6 @@
+
+
+.themefocus:focus {
+    box-shadow: 3px 3px 0 #7542d7;  /* Change box shadow on focus to purple-500 */
+    border: 3px solid #6c3dc9;      /* Change border color on focus to purple-500 */
+}

@@ -1,0 +1,16 @@
+
+.title{
+    font-family: 'Product Sans Black', sans-serif;
+}
+
+
+
+
+@media screen and (max-width: 768px) {
+
+    .nav-drop-shadow{
+        width: 260px;
+    }
+
+}
+

@@ -1,0 +1,15 @@
+
+
+.nav-drop-shadow {
+    box-shadow: 3px 3px 0 #2B2B2E;
+    width: 100px;
+
+}
+
+@media screen and (max-width: 768px) {
+
+    .nav-drop-shadow{
+        width: 260px;
+    }
+
+}

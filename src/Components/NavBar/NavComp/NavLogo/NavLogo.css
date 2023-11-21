@@ -1,0 +1,18 @@
+
+.logo-drop-shadow {
+    filter: drop-shadow(3px 3px 0px #2B2B2E);
+
+}
+
+.budget {
+    border-top: 3px solid #2B2B2E;
+    border-left: 3px solid #2B2B2E;
+    border-bottom: 3px solid #2B2B2E;
+}
+
+.pal{
+    border-top: 3px solid #2B2B2E;
+    border-right: 3px solid #2B2B2E;
+    border-bottom: 3px solid #2B2B2E;
+    border-left: 3px solid #2B2B2E;
+}
